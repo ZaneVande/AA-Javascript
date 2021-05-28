@@ -1,7 +1,9 @@
 /* PHASE 0: Sidebar */
 
 .profile-picture {
+    display: block;
     
+
 }
 
 .profile-info {
